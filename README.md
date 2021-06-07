@@ -1,7 +1,7 @@
 # Curso-CSharp
 
 ## Descrição do Projeto
-<p align="center">Repositório dedicado ao conteúdo e tarefas estudados no curso pragmático de CSharp</p>
+<p align="center">Repositório dedicado ao conteúdo e tarefas estudadas e realizadas no curso pragmático de CSharp</p>
 
 ## Sumário
 
