@@ -5,15 +5,15 @@
 
 ## Sumário
 
-+ [Hello] (https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Hello)
++ [Hello](https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Hello)
 Hello World minimalista feito na aula 01.
-+ [Tarefa_01] (https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Tarefa_01)
++ [Tarefa_01](https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Tarefa_01)
 Primeira atividade.
-+ [Webapi] (https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Webapi)
++ [Webapi](https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Webapi)
 Api desenvolvida ao longo do curso e o foco do mesmo.
 
 ## Ferramentas Necessárias
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git] (https://git-scm.com) e [.NET] (https://dotnet.microsoft.com/download). Além disto é bom ter um editor para trabalhar com o código como [VSCode] (https://code.visualstudio.com).
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com) e [.NET](https://dotnet.microsoft.com/download). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com).
 
 ## Como Executar o Projeto
 
@@ -26,6 +26,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 + Verifique se um link foi gerado como na imagem a seguir:
 
-> placeholder
+![](Resultado.png)
 
 + Caso queira visualizar os métodos disponíveis, copie o link gerado para o seu navegador adicionando um /swagger ao final
