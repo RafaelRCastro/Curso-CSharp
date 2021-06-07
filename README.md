@@ -7,8 +7,6 @@
 
 + [Hello](https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Hello)
 Hello World minimalista feito na aula 01.
-+ [Tarefa_01](https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Tarefa_01)
-Primeira atividade.
 + [Webapi](https://github.com/RafaelRCastro/Curso-CSharp/tree/master/Webapi)
 Api desenvolvida ao longo do curso e o foco do mesmo.
 
